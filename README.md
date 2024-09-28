@@ -47,12 +47,6 @@ You can add HoverMotions to your project by copying the provided hover component
 
 You can apply the hover effects to any component by wrapping them with the desired hover effect class. Here's an example of using the **SlideShift** effect:
 
-`<div class="group relative w-64 h-64 bg-gray-800 overflow-hidden rounded-lg">
-  <div class="absolute inset-0 bg-blue-500 transform transition-transform duration-500 ease-in-out group-hover:translate-x-4 group-hover:translate-y-2"></div>
-  <div class="relative z-10 flex items-center justify-center h-full text-white">
-    <h2 class="text-xl font-bold">SlideShift</h2>
-  </div>
-</div>`
 
 Feel free to modify the dimensions, colors, and other utilities to fit your design requirements!
 

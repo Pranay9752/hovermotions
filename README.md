@@ -38,10 +38,6 @@ You can add HoverMotions to your project by copying the provided hover component
 
 1.  **Clone the Repository**:
 
-    bash
-
-    Copy code
-
     `git clone https://github.com/yourusername/hovermotions.git
     cd hovermotions`
 
@@ -50,10 +46,6 @@ You can add HoverMotions to your project by copying the provided hover component
 ### **Usage**
 
 You can apply the hover effects to any component by wrapping them with the desired hover effect class. Here's an example of using the **SlideShift** effect:
-
-html
-
-Copy code
 
 `<div class="group relative w-64 h-64 bg-gray-800 overflow-hidden rounded-lg">
   <div class="absolute inset-0 bg-blue-500 transform transition-transform duration-500 ease-in-out group-hover:translate-x-4 group-hover:translate-y-2"></div>
@@ -102,8 +94,10 @@ Contributions are what make the open-source community such an amazing place to l
 **License**
 -----------
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. 
 
 * * * * *
 
 **HoverMotions** aims to make it easier for developers to create polished and interactive user experiences. We can't wait to see what you build with it!
+
+* * * * *
